@@ -1,8 +1,8 @@
 # UTS Pengolahan Citra
 | DATA | MAHASISWA |
 | -------- | --- |
-| **Nama** | Herlan Wibowo|
-| **NIM** | 312210324 |
+| **Nama** | Zacky Rafian Fawwauzy |
+| **NIM** | 312210344 |
 | **Kelas** | TI.22.A3 |
 
 ## Cara Menjalankan Project
